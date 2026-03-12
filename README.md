@@ -18,11 +18,11 @@ Seasoned Software Engineer with expertise in developing web applications, databa
     
 **Frameworks**
 
-![Ruby on Rails] ![React] ![YARN] ![Bootstrap]
+![Ruby on Rails] ![Next JS] ![Vue] ![React] ![Bootstrap]
 
 **Databases**
 
-![Postgres] ![MONGODB]
+![Postgres] ![MONGODB] ![SQLite]
 
 <!--
 **AbdullahInf/AbdullahInf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
